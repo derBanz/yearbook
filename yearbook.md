@@ -1,6 +1,4 @@
-# Yearbook FROM OUR CLASS
-
----
+# Yearbook
 
 ## Irene
 Birthday: 02 December\
@@ -20,7 +18,7 @@ City of Origin: Thesssaloniki, Greece
 ### What do you want to do when COVID is over?
    I would like to finally travel to Japan as my flight was cancelled because of COVID :(
 
----
+\pagebreak
 
 ## Camila Belen Siede
 
@@ -44,7 +42,7 @@ So far so great! We are learning a lot.
 ### What do I want to do when COVID is over?
 Visit Argentina without having to quarantine! 
 
----
+\pagebreak
 
 ## Sebastian Banz
 
