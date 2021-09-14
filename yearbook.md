@@ -6,7 +6,7 @@ Birthdate: 20 August 1994
 City of Origin: Buenos Aires, Argentina
 Family status: Married
 
-###Get to know me
+### Get to know me
 
 I am a Political Scientist  by training but I am becoming a web developer by passion!
 
