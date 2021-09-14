@@ -3,8 +3,8 @@
 ---
 
 # Irene
-   Birthday: 02 December
-   City of Origin: Thesssaloniki, Greece
+Birthday: 02 December\
+City of Origin: Thesssaloniki, Greece
 
 
 ## Get to Know Me
@@ -24,8 +24,8 @@
 
 ## Camila Belen Siede
 
-Birthdate: 20 August 1994
-City of Origin: Buenos Aires, Argentina
+Birthdate: 20 August 1994/
+City of Origin: Buenos Aires, Argentina/
 Family status: Married
 
 ### Get to know me
@@ -48,9 +48,9 @@ Visit Argentina without having to quarantine!
 
 ## Sebastian Banz
 
-Birthdate: 01. March 1992
-City of Origin: Heidenheim an der Brenz, Germany
-Family status: Married
+Birthdate: 01. March 1992/
+City of Origin: Heidenheim an der Brenz, Germany/
+Family status: Married/
 
 ### Get to know me
 My wife and I have two cats who we love dearly, Chromie and Maiev. My favourite hobby is playing video games, but I also enjoy reading books (crime and fantasy). As far as sports go I watch Esports and go running on occassion.
