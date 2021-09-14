@@ -12,7 +12,9 @@
   I live in Berlin with my boyfriend and our two cats, Chilo and Bobo.
 
 ## Hobbies
-   I play guitar and drums and I'm an avid gamer. Also, when I'm not reading history books I solder electronic kits.
+   I play guitar and drums and I film music videos. Also, I'm an avid gamer and a licenced soap maker.
+   When I'm not reading history books I solder electronic kits. 
+   
 
 ## How is your experience so far in the DHTA?
    So far it has been really rewarding!
