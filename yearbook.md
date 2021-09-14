@@ -1,4 +1,4 @@
-# Yearbook FROM OUR CLASS AAAAAAAAAAA
+# Yearbook FROM OUR CLASS
 
 ---
 
