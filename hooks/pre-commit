@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "Preparing to commit..."
+touch .commit
+exit
