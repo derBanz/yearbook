@@ -11,7 +11,3 @@ chmod +x .git/hooks/pre-commit
 then add and  commit your file
 
 You should know have a pdf alongside your other project files!
-
-
-
-
