@@ -1,4 +1,4 @@
-# Python Fundamentals Group Project
+# Python Fundamentals Group Project - Camila, Irene, Sebastian
 
 In this project you are tasked with creating a year book for your class. Just like you probably have done in school. It should contain at least the following sections:
 

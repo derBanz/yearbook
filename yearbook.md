@@ -1,31 +1,29 @@
 # Yearbook
 
----
-
-# Irene
-   Birthday: 02 December
-   City of Origin: Thesssaloniki, Greece
+## Irene
+Birthday: 02 December\
+City of Origin: Thesssaloniki, Greece
 
 
-## Get to Know Me
+### Get to Know Me
   I have studied Theoritical Linguistics and Semiotics but I've been troobleshooting computers since I was a kid.
   I live in Berlin with my boyfriend and our two cats, Chilo and Bobo.
 
-## Hobbies
+### Hobbies
    I play guitar and drums and I'm an avid gamer. Also, when I'm not reading history books I solder electronic kits.
 
-## How is your experience so far in the DHTA?
+### How is your experience so far in the DHTA?
    So far it has been really rewarding!
 
-## What do you want to do when COVID is over?
+### What do you want to do when COVID is over?
    I would like to finally travel to Japan as my flight was cancelled because of COVID :(
 
----
+\pagebreak
 
 ## Camila Belen Siede
 
-Birthdate: 20 August 1994
-City of Origin: Buenos Aires, Argentina
+Birthdate: 20 August 1994/
+City of Origin: Buenos Aires, Argentina/
 Family status: Married
 
 ### Get to know me
@@ -44,13 +42,13 @@ So far so great! We are learning a lot.
 ### What do I want to do when COVID is over?
 Visit Argentina without having to quarantine! 
 
----
+\pagebreak
 
 ## Sebastian Banz
 
-Birthdate: 01. March 1992
-City of Origin: Heidenheim an der Brenz, Germany
-Family status: Married
+Birthdate: 01. March 1992/
+City of Origin: Heidenheim an der Brenz, Germany/
+Family status: Married/
 
 ### Get to know me
 My wife and I have two cats who we love dearly, Chromie and Maiev. My favourite hobby is playing video games, but I also enjoy reading books (crime and fantasy). As far as sports go I watch Esports and go running on occassion.
