@@ -8,6 +8,7 @@ City of Origin: Thesssaloniki, Greece
 ### Get to Know Me
   I have studied Theoritical Linguistics and Semiotics but I've been troobleshooting computers since I was a kid.
   I live in Berlin with my boyfriend and our two cats, Chilo and Bobo.
+![Bobo](./pictures/bobo.jpg)
 
 ### Hobbies
    I play guitar and drums and I'm an avid gamer. Also, when I'm not reading history books I solder electronic kits.
