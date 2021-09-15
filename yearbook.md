@@ -58,3 +58,5 @@ I am having a great time and alread learned a lot about git, which so far I have
 
 ### What do I want to do when COVID is over?
 I want to go on a nice vacation somewhere warm to the sea. And I very much want to go back to my hometown and meet a lot of my friends who I mostly have not seen for over a year.
+
+![Chromie and Maiev](./pictures/sebastian.jpg)
