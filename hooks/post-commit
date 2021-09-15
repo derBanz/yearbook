@@ -1,0 +1,11 @@
+#!/bin/sh
+if [ -e .commit ]
+    then
+    rm .commit
+    echo "Generating yearbook.pdf..."
+    pandoc yearbook.md -o yearbook.pdf
+    echo "Adding to commit..."
+    git add .
+    git commit --amend -C HEAD --no-verify
+fi
+exit

@@ -1,0 +1,6 @@
+_Implementing git-hooks_
+
+* Install pandoc and mictex or basictex on your system.
+* Move both the pre-commit and post-commit files to .git/hooks/ in your repository.
+
+Whenever you make a commit, the hooks will automatically generate a .pdf version of the current yearbook.md file and add it to the commit.
